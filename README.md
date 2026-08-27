@@ -15,56 +15,58 @@ I’m currently seeking opportunities in **Data Science, Machine Learning, and A
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eldrich-victoria/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/eldrich-victoria)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:victoriaeldrich2004@gmail.com)
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming & Data Science
+### 🐍 Programming & Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)](https://jupyter.org/)
 
-### Machine Learning & AI
+### 🤖 Machine Learning & AI
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge\&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)](https://lightgbm.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge\&logoColor=black)](https://catboost.ai/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)](https://pytorch.org/)
 
-### NLP & Computer Vision
+### 🧠 NLP & Computer Vision
 
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+[![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)](https://huggingface.co/docs/transformers/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)](https://opencv.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)](https://docs.ultralytics.com/)
 
-### Backend & Applications
+### 🌐 Backend & Application Development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://streamlit.io/)
 
-### Data Acquisition & Development
+### 📊 Data Acquisition, Databases & Development Tools
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)](https://www.selenium.dev/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ NetSentinel
+### 🛡️ [NetSentinel](https://github.com/eldrich-victoria/NetSentinel)
 
 **Network Anomaly Detection & Real-Time ML Monitoring**
 
-A machine-learning-based network anomaly detection system combining classical ML and deep learning approaches with real-time inference, monitoring, evaluation, and alerting.
+A machine-learning-based network anomaly detection system combining classical machine learning and deep learning approaches with real-time inference, monitoring, evaluation, and alerting.
 
 **Tech:** Python · Scikit-learn · PyTorch · Streamlit · Machine Learning
 
@@ -72,7 +74,7 @@ A machine-learning-based network anomaly detection system combining classical ML
 
 ---
 
-### 🧠 Toxic Comment Detection System
+### 🧠 [Toxic Comment Detection System](https://github.com/eldrich-victoria/Toxic-Comment-Detection-System)
 
 **NLP-Based Toxicity Classification**
 
@@ -84,7 +86,7 @@ An NLP system for detecting and classifying toxic comments using classical machi
 
 ---
 
-### 🍽️ Flavour Finder
+### 🍽️ [Flavour Finder](https://github.com/eldrich-victoria/Flavour-Finder)
 
 **Restaurant Recommendation System**
 
@@ -96,7 +98,7 @@ A content-based restaurant recommendation system using feature engineering, NLP 
 
 ---
 
-### 🩺 RetinaGuard
+### 🩺 [RetinaGuard](https://github.com/eldrich-victoria/RetinaGuard)
 
 **Deep Learning Computer Vision Application**
 
@@ -108,7 +110,7 @@ A computer-vision application using deep learning and transfer learning for reti
 
 ---
 
-### 🖥️ TeleAssist
+### 🖥️ [TeleAssist](https://github.com/eldrich-victoria/TeleAssist)
 
 **Backend Application**
 
@@ -120,7 +122,7 @@ A Flask-based backend application using MySQL, REST APIs, authentication, securi
 
 ---
 
-### ♻️ WasteSense
+### ♻️ [WasteSense](https://github.com/eldrich-victoria/WasteSense)
 
 **IoT-Based Waste Monitoring System**
 
@@ -153,17 +155,27 @@ Worked on end-to-end data and machine-learning workflows involving:
 
 ## 🎓 Education
 
-**Bachelor of Technology — Computer Science Engineering (Data Science)**
-D. Y. Patil Agriculture & Technical University
+### Bachelor of Technology — Computer Science Engineering (Data Science)
+
+**D. Y. Patil Agriculture & Technical University**
+
 **2026 · CGPA: 7.76/10**
 
 ---
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=eldrich-victoria\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=false)
+<p align="center">
+  <a href="https://github.com/eldrich-victoria">
+    <img src="https://github-readme-stats.vercel.app/api?username=eldrich-victoria&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Eldrich Victoria's GitHub Statistics" />
+  </a>
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=eldrich-victoria\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=false\&layout=compact)
+<p align="center">
+  <a href="https://github.com/eldrich-victoria">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldrich-victoria&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Eldrich Victoria's Most Used Languages" />
+  </a>
+</p>
 
 ---
 
@@ -173,4 +185,4 @@ Opportunities in **Data Science, Machine Learning, and AI/ML Engineering** where
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me on LinkedIn.
+⭐ Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/eldrich-victoria/).
