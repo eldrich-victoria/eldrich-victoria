@@ -159,7 +159,7 @@ Worked on end-to-end data and machine-learning workflows involving:
 
 **D. Y. Patil Agriculture & Technical University**
 
-**2026 · CGPA: 7.76/10**
+**2026**
 
 ---
 
