@@ -163,19 +163,11 @@ Worked on end-to-end data and machine-learning workflows involving:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/eldrich-victoria">
-    <img src="https://github-readme-stats.vercel.app/api?username=eldrich-victoria&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Eldrich Victoria's GitHub Statistics" />
-  </a>
-</p>
+I use GitHub to build, document, and maintain projects across **Data Science, Machine Learning, NLP, Deep Learning, Computer Vision, and backend development**.
 
-<p align="center">
-  <a href="https://github.com/eldrich-victoria">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldrich-victoria&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Eldrich Victoria's Most Used Languages" />
-  </a>
-</p>
+[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eldrich-victoria)
 
 ---
 
