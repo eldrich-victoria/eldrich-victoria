@@ -13,69 +13,45 @@ My independent projects focus on machine learning, NLP, anomaly detection, recom
 **Programming & Data Science**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
-
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)](https://numpy.org/)
-
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
 
 **Machine Learning & Deep Learning**
 
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
-
 [![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)](https://xgboost.readthedocs.io/)
-
 [![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)](https://lightgbm.readthedocs.io/)
-
 [![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge\&logoColor=black)](https://catboost.ai/)
-
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)](https://pytorch.org/)
-
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)](https://www.tensorflow.org/)
-
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)](https://keras.io/)
 
 **NLP & Computer Vision**
 
 [![TF-IDF](https://img.shields.io/badge/TF--IDF-4B8BBE?style=for-the-badge)](https://scikit-learn.org/stable/modules/feature_extraction.html)
-
 [![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)](https://huggingface.co/docs/transformers/)
-
 [![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge)](https://www.sbert.net/)
-
 [![LIME](https://img.shields.io/badge/LIME-6A1B9A?style=for-the-badge)](https://github.com/marcotcr/lime)
-
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)](https://opencv.org/)
-
 [![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://python-pillow.org/)
-
 [![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)](https://docs.ultralytics.com/)
 
 **Backend & Application Development**
 
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
-
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
-
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://streamlit.io/)
-
 [![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)](https://www.ibm.com/topics/rest-apis)
 
 **Data Acquisition, Databases & Development Tools**
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
-
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)](https://jupyter.org/)
-
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-
 [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)](https://pytest.org/)
-
 [![unittest](https://img.shields.io/badge/unittest-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.python.org/3/library/unittest.html)
 
 
